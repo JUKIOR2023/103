@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS PLUS" tvg-logo="https://docdog.top/logo/countries/colombia/winsportplus.png" group-title="LAME | COLOMBIA VIP",CO: WIN SPORTS PLUS
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5271
+#EXTINF:-1 tvg-id="" tvg-name="CO: M+" tvg-logo="https://docdog.top/logo/countries/colombia/M+.jpg" group-title="LAME | COLOMBIA VIP",CO: M+
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5272
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 3" tvg-logo="https://docdog.top/logo/countries/chile/tntsports.png" group-title="LAME | CHILE VIP",CL: TNT SPORTS 3
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5273
+#EXTINF:-1 tvg-id="" tvg-name="CL: WIN SPORT PLUS" tvg-logo="https://docdog.top/logo/countries/chile/winsportplus.png" group-title="LAME | CHILE VIP",CL: WIN SPORT PLUS
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5274
+#EXTINF:-1 tvg-id="" tvg-name="CL: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/chile/directvsports.png" group-title="LAME | CHILE VIP",CL: DIRECTV SPORTS
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5275
+#EXTINF:-1 tvg-id="" tvg-name="CL: SPORTING" tvg-logo="https://docdog.top/logo/countries/chile/sportingtv.png" group-title="LAME | CHILE VIP",CL: SPORTING
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5276
+#EXTINF:-1 tvg-id="" tvg-name="CL: 13 C" tvg-logo="https://docdog.top/logo/countries/chile/13c.png" group-title="LAME | CHILE VIP",CL: 13 C
+http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/5277
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
 http://estrellaos.voohocep.top:8080/VIP013711765287272157/fea36c5f336b/243
 #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) DAZN LALIGA
